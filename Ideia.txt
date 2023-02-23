@@ -1,0 +1,2 @@
+//ideia na área de design
+ //criar um container separando as imagens verticalmente 
